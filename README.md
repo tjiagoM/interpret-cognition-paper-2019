@@ -1,6 +1,6 @@
 # A machine learning tool for interpreting differences in cognition using brain features
 
-This repository stores the code used in the following paper: LINK.
+This repository stores the code used in the following preprint: [https://www.biorxiv.org/content/10.1101/558403v1](https://www.biorxiv.org/content/10.1101/558403v1) (accepted in AIAI 2019).
 
 We cannot share the original data used in the paper so we provide example files in `example_data/` folder so the code in this repository can be executed.
 
